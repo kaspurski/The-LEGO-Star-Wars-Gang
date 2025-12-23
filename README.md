@@ -1,1 +1,1 @@
-Final project for my highscool web design course. 
+Final project for my highscool web development course. 
